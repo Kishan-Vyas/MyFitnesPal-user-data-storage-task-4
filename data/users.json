@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1719390081639",
+    "name": "Kishan",
+    "age": "12",
+    "goals": "remove stress",
+    "password": "$2b$10$5OWKVNFklbzgp37WYHsCzO.nTPp.Fcb82eRkJAkvxI06kHTfpLEk.",
+    "entries": [
+      {
+        "date": "2024-06-26",
+        "calories": "12",
+        "protein": "34",
+        "fat": "13",
+        "carbohydrates": "24",
+        "exercise": "solder"
+      }
+    ]
+  },
+  {
+    "id": "1719390147215",
+    "name": "dinu",
+    "age": "18",
+    "goals": "weigh loss",
+    "password": "$2b$10$pBHOTqJzvU50Zg5lgsEBJe6jsz/3bAbBINMZ9vn5.FEcRdlBbfIIK",
+    "entries": []
+  },
+  {
+    "id": "1719390801280",
+    "name": "test",
+    "age": 30,
+    "goals": "gain muscle",
+    "password": "$2b$10$whRAoqoyKbyLI/IXYfI4K.8jgsLYn3UgWTyLK/517CXGzTCBPOz3.",
+    "entries": []
+  },
+  {
+    "id": "1719390801408",
+    "name": "testlogin",
+    "age": 30,
+    "goals": "lose weight",
+    "password": "$2b$10$z/D7o9Q7wIZEZyIvA1Fz2es.wd2OT22d.OJQrEaVuPnYBzQDZTue.",
+    "entries": []
+  },
+  {
+    "id": "1719390901031",
+    "name": "nit",
+    "age": "32",
+    "goals": "weigh loss",
+    "password": "$2b$10$sZB95J47Uek76tY6Kvi0d.ICwNaiJdjLiAeUe541a9.KILEYfKXeK",
+    "entries": [
+      {
+        "date": "2024-06-26",
+        "calories": "32",
+        "protein": "32",
+        "fat": "43",
+        "carbohydrates": "12",
+        "exercise": "solder"
+      },
+      {
+        "date": "2024-06-25",
+        "calories": "23",
+        "protein": "34",
+        "fat": "53",
+        "carbohydrates": "23",
+        "exercise": "back"
+      }
+    ]
+  }
+]
