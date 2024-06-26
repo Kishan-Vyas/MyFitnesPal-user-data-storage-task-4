@@ -55,6 +55,7 @@ Run the automated tests using Jest:
 ```sh
 npm test
 
+```
 
 
 .
