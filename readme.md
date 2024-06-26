@@ -56,14 +56,12 @@ Run the automated tests using Jest:
 npm test
 
 
+
 .
 ├── app.js
 ├── data
 │   └── users.json
 ├── package.json
-├── public
-│   └── css
-│       └── styles.css
 ├── routes
 │   └── userRoutes.js
 ├── utils
@@ -72,7 +70,6 @@ npm test
 │   ├── login.ejs
 │   ├── profile.ejs
 │   ├── register.ejs
-│   └── partials
-│       └── header.ejs
+│   └── index.ejs
 └── tests
     └── userRoutes.test.js
