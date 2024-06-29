@@ -16,8 +16,8 @@ This project is a simple user registration and login system for a fitness applic
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/myfitnesspal.git
-    cd myfitnesspal
+    git clone https://github.com/Kishan-Vyas/MyFitnesPal-user-data-storage-task-4
+    cd MyFitnesPal-user-data-storage-task-4
     ```
 
 2. Install the dependencies:
